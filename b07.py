@@ -128,7 +128,6 @@ def menu():
 			raw_input("\n[ Back ]")
 			menu()
 	xxx = str(len(id))
-        psb ('[✓] Hello buddy🔥
         psb ('[✓] Please wait faisal vai getting id')
 	psb ('[✓] Total : ''992961987')
 	time.sleep(0.5)
